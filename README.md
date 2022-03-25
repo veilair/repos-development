@@ -5,8 +5,7 @@ An ongoing curated list of frameworks and libraries, articles and books , talksa
 
 ## `Table of Contents`
 
-## Index
-
+-   [Introduction](#introduction)
 -   [API](#api)
 -   [Artificial Intelligence](#artificial-intelligence)
 -   [Awesome](#awesome)
