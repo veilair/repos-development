@@ -261,9 +261,4 @@ An ongoing curated list of frameworks and libraries, articles and books , talksa
 
 
 
-## 20 Amazing GitHub Repositories Every Developer Should Follow
 
-* [Free Programming Books](https://github.com/veilair/free-programming-books)
-* [Free Code Camp](https://github.com/veilair/freeCodeCamp)
-* [Code Developemnt](https://github.com/veilair/code-development)
-* [Developer Roadmap](https://github.com/veilair/developer-roadmap)
